@@ -1,8 +1,4 @@
 from flask import Flask
-"""
-Customery Hello World app.
-"""
-
 app = Flask(__name__)
 
 @app.route("/")
