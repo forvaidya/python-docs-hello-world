@@ -11,4 +11,3 @@ def hello():
     Execution::Customery Hello World app.
     """
     return "Hello, World!"
-
