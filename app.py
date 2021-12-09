@@ -8,7 +8,7 @@ app = Flask(__name__)
 @app.route("/")
 def hello():
     """
-        Execution::Customery Hello World app.
+    Execution::Customery Hello World app.
     """
     return "Hello, World!"
 
